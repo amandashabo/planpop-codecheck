@@ -2,4 +2,9 @@
     <string name="app_name">Android Engineer CodeCheck</string>
     <string name="searchInputText_hint">Search GitHub repositories</string>
     <string name="written_language">Written in %s</string>
+    <string name="num_stars">%d stars</string>
+    <string name="num_watchers">%d watchers</string>
+    <string name="num_forks">%d forks</string>
+    <string name="num_open_issues">%d open issues</string>
+    <string name="error">Error retrieving repositories</string>
 </resources>
